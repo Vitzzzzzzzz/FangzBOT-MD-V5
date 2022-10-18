@@ -51,8 +51,8 @@ global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
+global.nomorbot = '6281999776510' //Nomor Bot mu
+global.nomorown = '6283117771046' //Nomormu
 global.namebot = 'Fangz BOT' //Nama bot mu
 global.nameown = 'Fangz Ganz' //Nama mu
 
@@ -62,7 +62,7 @@ global.owner = [
   ['6288215689772'], //Owner1
   ['6285335877178'], //Owner2
   ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6283117771046', 'FANGZ ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
